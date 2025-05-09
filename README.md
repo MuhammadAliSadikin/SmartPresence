@@ -1,14 +1,15 @@
-# SmartPresence
-## Sistem Absensi Siswa Berbasis Web
+# <p align="center" style="margin-bottom: 0px;"> SmartPresence</p>
+## <p align="center" style="margin-top: 0;">Sistem Absensi Siswa Berbasis Web</p>
 
 <p align="center">
   <img src="/public/LogoUnsulbar.png" alt="SmartPresence Logo" width="300"/>
 </p>
 
-### Muhammad Ali Sadikin  
-### D0223332  
-### Framework Web Based  
-### 2025  
+
+### <p align="center">Muhammad Ali Sadikin  </p>
+### <p align="center">D0223332  </p></br>
+### <p align="center">Framework Web Based</p>
+### <p align="center">2025</p> 
 
 ---
 
